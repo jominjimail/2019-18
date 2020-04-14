@@ -66,3 +66,7 @@ Service server is down.
 아: 이준호 [@Junow](https://github.com/Junow)
 
 자: 조민지 [@jominjimail](https://github.com/jominjimail)
+
+
+## GIF
+![](gif/1.gif)
