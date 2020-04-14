@@ -70,3 +70,9 @@ Service server is down.
 
 ## GIF
 ![](gif/1.gif)
+![](gif/2.gif)
+![](gif/3.gif)
+![](gif/4.gif)
+![](gif/5.gif)
+![](gif/6.gif)
+![](gif/7.gif)
